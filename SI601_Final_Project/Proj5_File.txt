@@ -1,0 +1,13 @@
+
+1	JANUARY	,Eridanus,Reticulum,Taurus,Caelum,Camelopardus,Dorado,Auriga,Mensa,Lepus,Orion, , 
+2	FEBRUARY	,Columba,Pictor,Canis Major,Canis Minor,Monoceros,Gemini, , 
+3	MARCH	,Puppis,Volans,Lynx,Cancer,Pyxis,Carina,Hydra, head,Vela
+4	APRIL	,Antlia,Leo,Sextans,Leo Minor,Chamaeleon,Ursa Major, south,Crater, 
+5	MAY	,Hydra, mid,Corvus,Centaurus,Coma Berenices,Crux,Musca,Canes Venatici,Virgo
+6	JUNE	,Boötes,Circinus,Hydra, tail,Ursa Minor
+7	JULY	,Corona Borealis,Serpens Caput,Triangulum Australe,Norma,Apus,Libra,Lupus,Hercules,Scorpius,Ara, , 
+8	AUGUST	,Draco,Serpens Cauda,Ophiuchus,Corona Australis,Lyra,Scutum,Sagittarius,Telescopium,Pavo, , , 
+9	SEPTEMBER	,Sagitta,Aquila,Microscopium,Vulpecula,Delphinus,Cygnus,Capricornus,Indus,Equuleus,Octans, , 
+10	OCTOBER	,Aquarius,Cepheus,Grus,Lacerta,Piscis Austrinus,Pegasus, , 
+11	NOVEMBER	,Tucana,Andromeda,Cassiopeia,Sculptor,Pisces,Phoenix,Cetus, 
+12	DECEMBER	,Hydrus,Triangulum,Aries,Fornax,Horologium,,Perseus, , 
